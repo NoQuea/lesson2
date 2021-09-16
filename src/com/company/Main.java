@@ -14,7 +14,9 @@ public class Main {
 //        obj4.enterTask();
 //        Count obj5 = new Count();
 //        obj5.countNumbers();
-        SelectionSort obj6 = new SelectionSort();
-        obj6.sort();
+//        SelectionSort obj6 = new SelectionSort();
+//        obj6.sort();
+        SumDel obj7 = new SumDel();
+        obj7.sum();
     }
 }
