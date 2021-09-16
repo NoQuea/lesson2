@@ -12,7 +12,9 @@ public class Main {
 //        obj.weatherSwitch();
 //        Enter obj4 = new Enter();
 //        obj4.enterTask();
-        Count obj5 = new Count();
-        obj5.countNumbers();
+//        Count obj5 = new Count();
+//        obj5.countNumbers();
+        SelectionSort obj6 = new SelectionSort();
+        obj6.sort();
     }
 }
