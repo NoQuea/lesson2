@@ -9,26 +9,26 @@ public class Weather {
 
         String month = scan.next();
         switch (month){
-            case "January":{}
-            case "February":{}
+            case "January":
+            case "February":
             case "December":{
                 System.out.println("This is winter");
             }
             break;
-            case "March":{}
-            case "April":{}
+            case "March":
+            case "April":
             case "May":{
                 System.out.println("This is Spring");
             }
             break;
-            case "June":{}
-            case "July":{}
+            case "June":
+            case "July":
             case "August":{
                 System.out.println("This is Summer");
             }
             break;
-            case "September":{}
-            case "October":{}
+            case "September":
+            case "October":
             case "November":{
                 System.out.println("This is Autumn");
             }

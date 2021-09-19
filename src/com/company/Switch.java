@@ -9,11 +9,11 @@ public class Switch {
         i = scan.nextLine().toLowerCase().toCharArray()[0];
 //{'a', 'e', 'i', 'o', 'u', 'y'}
         switch (i){
-            case 'a':{}
-            case 'e':{}
-            case 'i':{}
-            case 'o':{}
-            case 'u':{}
+            case 'a':
+            case 'e':
+            case 'i':
+            case 'o':
+            case 'u':
             case 'y':{
                 System.out.println("is a vowel");
             }
